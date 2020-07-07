@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.codedesigner.rmq.processor
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, docker, file-watch, http-client, java, java-application, junit, logback, maven, netty-server, rabbitmq, readme, shade, yaml]
